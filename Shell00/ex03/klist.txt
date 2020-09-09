@@ -1,0 +1,6 @@
+Credentials cache: API:12B6EE3A-E71C-4607-BC3F-3281F3E77B70
+        Principal: lbelbach@42.FR
+
+  Issued                Expires             Flags    Principal
+Sep  7 14:35:05 2020  Sep 14 14:35:05 2020  FPRIA  krbtgt/42.FR@42.FR
+sh-3.2$ cd 
